@@ -1,6 +1,6 @@
 #(c) 2013 PriceDerivatives.com
 # Distributed without any warranty.For educational purposes only.
-
+# calculation of Credit valuation adjustment for interest rate swap
 from  QuantLib import *
 import numpy as np
 from math import *
